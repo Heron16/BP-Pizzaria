@@ -22,7 +22,7 @@
 <!--INICIO CABECALHO DO SITE-->
 <header class="topo-site">
 <!--INICIO LOGO DO SITE-->
-<a href="index.html" class="logo">
+<a href="index.php" class="logo">
     <i class="fas fa-pizza-slice"></i>
     BP-Pizzas
 </a>
@@ -30,12 +30,12 @@
 
 <!--INICIO MENU DO SITE-->
 <nav class="menu-site">
-<a href="index.html">Inicio</a>
-<a href="empresa.html">Empresa</a>
+<a href="index.php">Inicio</a>
+<a href="empresa.php">Empresa</a>
 <a href="menu.php">Cardápio</a>
 <a href="loja.php">Montar Pedido</a>
-<a href="blog.html">Blog</a>
-<a href="contatos.html">Fale Conosco</a>
+<a href="blog.php">Blog</a>
+<a href="contatos.php">Fale Conosco</a>
 </nav>
 <!--FIM MENU DO SITE-->
 <!--INICIO ICONE  DO SITE-->
