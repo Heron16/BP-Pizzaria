@@ -13,7 +13,7 @@
  <link rel="stylesheet" href="style.css">  
 <link rel="shortcut icon" href="msFavicon.png" type="image/x-icon">
 
-<title></title>
+<title>BP-Pizzas</title>
 </head>
 <body>
 
